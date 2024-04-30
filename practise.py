@@ -4,3 +4,5 @@ def myFunction(parameter):
   value = parameter
   print(value)
 myFunction("second")
+
+#this was a twitter question
