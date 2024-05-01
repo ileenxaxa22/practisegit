@@ -9,8 +9,8 @@ myFunction("second")
 def substraction(a,b,c):
   return a - b - c
 
-def addition(a,b):
-  return a + b
+def addition(a,b,e):
+  return a + b + e
 
 
    
