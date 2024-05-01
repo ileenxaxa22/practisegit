@@ -6,3 +6,11 @@ def myFunction(parameter):
 myFunction("second")
 
 #this was a twitter question
+def substraction(a,b):
+  return a - b
+
+def addition(a,b):
+  return a + b
+
+
+   
