@@ -7,7 +7,7 @@ myFunction("second")
 
 #this was a twitter question
 def substraction(a,b,c):
-  return a - b
+  return a - b - c
 
 def addition(a,b):
   return a + b
